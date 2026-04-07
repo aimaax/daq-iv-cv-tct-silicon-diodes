@@ -1,0 +1,14 @@
+{
+    "Kp": 1,
+    "Ki": 0.01,
+    "Kd": 50,
+    "I_Term_limit": 5,
+    "target_temperature": -18.1,
+    "fixed_voltage": 12,
+    "max_current": 5,
+    "voltage_output_on": false,
+    "max_peltier_chiller_temp": -10,
+    "max_peltier_PCB_temp": 15,
+    "chiller_setpoint": -30.0,
+    "measurement_type": 1
+}
