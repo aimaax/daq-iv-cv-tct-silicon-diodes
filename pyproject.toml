@@ -1,5 +1,5 @@
 [project]
-name = "particulars-setup"
+name = "daq-iv-cv-tct-silicon-diodes"
 version = "1.0.0"
 description = "Add your description here"
 readme = "README.md"
