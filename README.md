@@ -41,7 +41,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 ```
 git clonehttps://<username>@github.com/aimaax/daq-iv-cv-tct-silicon-diodes.git
-cd penguin
+cd daq-iv-cv-tct-silicon-diodes
 ```
 
 ## Run measurement with software
